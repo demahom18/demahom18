@@ -21,12 +21,12 @@ javascript and its environment
  - Mongodb
  - Firebase
 
-- 🌱 I’m currently learning ... Typescript
+### 🌱 I’m currently learning :  Typescript
 
 
-- 📫 How to reach me: Twitter : @hamedonzo email: demahom18@outlook.com
+### 📫 How to reach me: Twitter : @hamedonzo email: demahom18@outlook.com
 
-- Thanks for interest :)
+- Thanks for your interest :)
 
 
 <!--

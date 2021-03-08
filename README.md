@@ -28,7 +28,6 @@ javascript and its environment
  - Twitter : @hamedonzo
  - Email: demahom18@outlook.com
 
- Thank you for your interest :)
 
 
 <!--

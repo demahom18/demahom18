@@ -9,17 +9,27 @@ javascript and its environment
 
 ## Competences ✨:
 
-### Front : 
- - HTML / CSS / SCSS
- - Javascript(es6+), JQuery
- - Vue.js
- - Tailwind
+<div style="display:flex;">
+  <div>
+    <h3>Front: </h3>
+    <ul>
+      <li>HTML / CSS / SCSS</li>
+      <li>Javascript(es6+), JQuery</li>
+      <li>Vue.js</li>
+      <li>Tailwind</li>
+    </ul>
+   </div>
+   <div>
+    <h3>Back: </h3>
+    <ul>
+      <li>Nodejs/Express</li>
+      <li>Nuxt</li>
+      <li> Mongodb</li>
+      <li>Firebase</li>
+    </ul>
+  </div>
+</div>
 
-### Back :
- - Nodejs/Express
- - Nuxt
- - Mongodb
- - Firebase
 
 ### 🌱 I’m currently learning :  Typescript
 

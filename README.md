@@ -24,9 +24,11 @@ javascript and its environment
 ### 🌱 I’m currently learning :  Typescript
 
 
-### 📫 How to reach me: Twitter : @hamedonzo email: demahom18@outlook.com
+### 📫 How to reach me:
+ - Twitter : @hamedonzo
+ - Email: demahom18@outlook.com
 
-- Thanks for your interest :)
+ Thank you for your interest :)
 
 
 <!--

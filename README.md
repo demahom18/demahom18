@@ -9,7 +9,7 @@ javascript and its environment
 
 ## Competences ✨:
 
-<div style="display:flex;">
+<div style="display:flex; flex-direction: row;">
   <div>
     <h3>Front: </h3>
     <ul>

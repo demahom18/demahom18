@@ -3,8 +3,8 @@
 ## About me 💬
 
 My name is Mohamed Donzo and I live in Quebec, Canada. I started to<br> 
-code in march 2020 during the first quarantine, and haven't stop<br>
-since. I had fun with java for a few months and finally decided to focus on <br>
+code in march 2020 during the first quarantine, and haven't stop since.<br>
+I had fun with java for a few months and finally decided to focus on <br>
 javascript and its environment 
 
 ## Competences ✨:

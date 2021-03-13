@@ -6,8 +6,8 @@
   <div>
     <h3>Front: </h3>
     <ul>
-      <li>HTML / CSS / SCSS</li>
-      <li>Javascript(es6+), JQuery</li>
+      <li>HTML (S)CSS</li>
+      <li>Javascript(es6+)</li>
       <li>Vue.js</li>
       <li>Tailwind</li>
     </ul>

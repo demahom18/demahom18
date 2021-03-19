@@ -1,30 +1,12 @@
 ### Hi there 👋
 
-## Competences ✨:
-
-<div style="display:flex; flex-direction: row;">
-  <div>
-    <h3>Front: </h3>
-    <ul>
-      <li>HTML (S)CSS</li>
-      <li>Javascript(es6+)</li>
-      <li>Vue.js</li>
-      <li>Tailwind</li>
-    </ul>
-   </div>
-   <div>
-    <h3>Back: </h3>
-    <ul>
-      <li>Nodejs/Express</li>
-      <li>Nuxt</li>
-      <li> Mongodb</li>
-      <li>Firebase</li>
-    </ul>
-  </div>
-</div>
-
+### I'm fluent in HTML - CSS - Javascript - Vue.js - Node.js - MongoDB - Firebase
 
 ### 🌱 I’m currently learning :  Typescript
+
+[portfolio](https://momodonzo.dev) | [twitter](https://twitter.com/hamedonzo) | [email](demahom18@outlook.com)
+
+
 
 
 ### 📫 How to reach me:

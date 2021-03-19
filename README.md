@@ -4,15 +4,7 @@
 
 ### 🌱 I’m currently learning :  Typescript
 
-[portfolio](https://momodonzo.dev) | [twitter](https://twitter.com/hamedonzo) | [email](demahom18@outlook.com)
-
-
-
-
-### 📫 How to reach me:
- - Twitter : @hamedonzo
- - Email: demahom18@outlook.com
-
+   [portfolio](https://momodonzo.dev) | [twitter](https://twitter.com/hamedonzo) | [email](demahom18@outlook.com)
 
 
 <!--

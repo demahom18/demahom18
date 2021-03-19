@@ -4,7 +4,7 @@
 
    I’m currently learning :  Typescript
 
-   [portfolio](https://momodonzo.dev) | [twitter](https://twitter.com/hamedonzo) | [email](demahom18@outlook.com)
+   [portfolio](https://momodonzo.dev) | [twitter](https://twitter.com/hamedonzo) | <a href="emailto:demahom18@outlook.com">email</a>
 
 
 <!--

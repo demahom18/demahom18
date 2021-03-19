@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I currently speak HTML - CSS - Javascript - Vue.js - Node.js - MongoDB - Firebase
+   I currently speak HTML - CSS - Javascript - Vue.js - Node.js - MongoDB - Firebase
 
-### 🌱 I’m currently learning :  Typescript
+   I’m currently learning :  Typescript
 
    [portfolio](https://momodonzo.dev) | [twitter](https://twitter.com/hamedonzo) | [email](demahom18@outlook.com)
 

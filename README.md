@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm fluent in HTML - CSS - Javascript - Vue.js - Node.js - MongoDB - Firebase
+### I currently speak HTML - CSS - Javascript - Vue.js - Node.js - MongoDB - Firebase
 
 ### 🌱 I’m currently learning :  Typescript
 

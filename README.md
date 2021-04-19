@@ -2,7 +2,7 @@
 
    I speak HTML - CSS - Javascript - Vue.js - Node.js - MongoDB - Firebase
 
-   🌱I’m currently learning :  Typescript
+   <!-- 🌱I’m currently learning :  Typescript -->
 
    [portfolio](https://momodonzo.dev) || [twitter](https://twitter.com/hamedonzo)
 

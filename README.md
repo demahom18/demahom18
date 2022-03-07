@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-   I speak HTML - CSS - Javascript - Vue.js - Node.js - MongoDB - Firebase
+Frontend: Vue.js ( 2 & 3), Sass, Bootstrap, Tailwind, Shopify, Three.js, gsap
+Backend: Craft cms, Shopify, Firebase, node.js, mongodb,
 
-   <!-- 🌱I’m currently learning :  Typescript -->
+- 🔭 I’m currently learning Typescript and unit testing with Vitest
 
-   [portfolio](https://momodonzo.dev) || [twitter](https://twitter.com/hamedonzo)
+[portfolio](https://momodonzo.dev) || [twitter](https://twitter.com/hamedonzo)
 
 
 <!--
@@ -12,7 +13,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

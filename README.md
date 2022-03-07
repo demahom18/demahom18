@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Frontend: Vue.js ( 2 & 3), Sass, Bootstrap, Tailwind, Shopify, Three.js, gsap
-Backend: Craft cms, Shopify, Firebase, node.js, mongodb,
+- Frontend: Vue.js ( 2 & 3), Sass, Bootstrap, Tailwind, Shopify, Three.js, gsap
+- Backend: Craft cms, Shopify, Firebase, node.js, mongodb,
 
-- 🔭 I’m currently learning Typescript and unit testing with Vitest
+- 🔭 currently learning: Typescript and unit testing with Vitest
 
 [portfolio](https://momodonzo.dev) || [twitter](https://twitter.com/hamedonzo)
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a frontend developer since 2020<br>
+I'm a frontend developer based in Montréal in Canada<br>
 Technologies I'm familiar with include: 
 - Frontend: Vue.js ( 2 & 3), Sass, Bootstrap, Tailwind, Shopify, Three.js, gsap
 - Backend: Craft cms, Shopify, Firebase, node.js, mongodb,

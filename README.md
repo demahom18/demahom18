@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a frontend developer based in Montréal in Canada<br>
 Technologies I'm familiar with include: 
-- Frontend: Vue.js ( 2 & 3), Sass, Bootstrap, Tailwind, Shopify, Three.js, gsap
+- Frontend: Vue.js ( 2 & 3), Sass, Bootstrap, Tailwind, Three.js, gsap
 - Backend: Craft cms, Shopify, Firebase, node.js, mongodb,
 
 - 🔭 Currently learning: Typescript and unit testing with Vitest

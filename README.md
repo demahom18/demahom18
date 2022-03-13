@@ -6,7 +6,7 @@ Technologies I'm familiar with include:
 
 - 🔭 Currently learning: Typescript and unit testing with Vitest
 
-See my [portfolio](https://momodonzo.dev) or follow me on [twitter](https://twitter.com/hamedonzo)
+See my [portfolio](https://momodonzo.dev) or follow me on [twitter](https://twitter.com/_demahom18)
 
 
 <!--

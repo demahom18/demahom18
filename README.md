@@ -4,7 +4,7 @@ Technologies I'm familiar with include:
 - Frontend: Vue.js ( 2 & 3), Sass, Bootstrap, Tailwind, Three.js, gsap
 - Backend: Craft cms, Shopify, Firebase, node.js, mongodb,
 
-- 🔭 Currently learning: Typescript and unit testing with Vitest
+- 🔭 Currently learning: React, Typescript and unit testing with Vitest
 
 See my [portfolio](https://momodonzo.dev) or follow me on [twitter](https://twitter.com/_demahom18)
 

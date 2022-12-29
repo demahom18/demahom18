@@ -1,10 +1,8 @@
 ### Hi there 👋
 I'm a frontend developer based in Montréal in Canada<br>
 Technologies I'm familiar with include: 
-- Frontend: Vue.js, React, Sass, Bootstrap, Tailwind, Three.js, gsap
-- Backend: Craft cms, Shopify, Firebase, node.js, mongodb,
-
-- 🔭 Currently learning: Java/spring boot
+- Frontend: Vue.js, React, Next, Nuxt, Sass (SCSS)
+- Backend: node.js, java, mongodb, Shopify, Firebase, 
 
 See my [portfolio](https://momodonzo.dev) or follow me on [twitter](https://twitter.com/_demahom18)
 
